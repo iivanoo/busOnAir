@@ -26,6 +26,8 @@ Contacts
 
 [Vasco Gallotti][11]
 
+[Michele Flammini][12]
+
 
 Getting Started
 =============
@@ -64,3 +66,5 @@ Let us know if you have any feedback.
 [10]: http://www.di.univaq.it/francesco.gallo
 
 [11]: http://www.blaskino.net
+
+[12]: http://www.di.univaq.it/flammini/

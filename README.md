@@ -1,3 +1,18 @@
+University of L'Aquila - Computer Science Department
+
+
+This is a fork of the [Transport Dublin][6] project.
+
+
+We are working on extending it with:
+
+- real-time tracking of the vehicles on the network
+- a set of mobile applications that can seamlessly access the service from either iOs, Android, or Windows devices
+- a set of optimization algorithms that will help engineers in studying and enhancing the overall network performance
+
+We are applying the project to a real case study on the public transportation system of L'Aquila (Italy).
+
+
 Getting Started
 =============
 
@@ -13,11 +28,14 @@ Point your browser to http://localhost:8081/
 
 Let us know if you have any feedback.
 
+[1]: http://www.busonair.eu
 
-[1]: http://neo4j.org/download/
+[2]: http://neo4j.org/download/
 
-[2]: http://maven.apache.org/
+[3]: http://maven.apache.org/
 
-[3]: http://nodejs.org/
+[4]: http://nodejs.org/
 
-[4]: http://github.com/isaacs/npm 
+[5]: http://github.com/isaacs/npm 
+
+[6]: https://github.com/WhichWay/TransportDublin

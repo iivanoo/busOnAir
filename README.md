@@ -17,6 +17,8 @@ Contacts
 ===
 
 [Ivano Malavolta][7]
+[Ludovico Iovino][8]
+[Stefano Pace] [9]
 
 
 Getting Started
@@ -48,3 +50,7 @@ Let us know if you have any feedback.
 [6]: https://github.com/WhichWay/TransportDublin
 
 [7]: http://www.di.univaq.it/malavolta
+
+[8] http://www.ludovicoiovino.com
+
+[9] http://www.stefanopace.net

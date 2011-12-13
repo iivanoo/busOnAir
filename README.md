@@ -24,6 +24,8 @@ Contacts
 
 [Francesco Gallo] [10]
 
+[Vasco Gallotti][11]
+
 
 Getting Started
 =============
@@ -60,3 +62,5 @@ Let us know if you have any feedback.
 [9]: http://www.stefanopace.net
 
 [10]: http://www.di.univaq.it/francesco.gallo
+
+[11]: http://www.blaskino.net

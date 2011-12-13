@@ -13,6 +13,11 @@ We are working on extending it with:
 
 We are applying the project to a real case study on the public transportation system of L'Aquila (Italy).
 
+Contacts
+===
+
+[Ivano Malavolta][7]
+
 
 Getting Started
 =============
@@ -28,14 +33,6 @@ Setup `$NEO4J_HOME` in the `bin/install.sh` file and install with:
 Point your browser to http://localhost:8081/
 
 Let us know if you have any feedback.
-
-
-
-
-Contacts
-=============
-
-[Ivano Malavolta][7]
 
 
 [1]: http://www.busonair.eu

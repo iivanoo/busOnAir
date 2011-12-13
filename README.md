@@ -17,7 +17,9 @@ Contacts
 ===
 
 [Ivano Malavolta][7]
+
 [Ludovico Iovino][8]
+
 [Stefano Pace] [9]
 
 

@@ -22,6 +22,8 @@ Contacts
 
 [Stefano Pace] [9]
 
+[Francesco Gallo] [10]
+
 
 Getting Started
 =============

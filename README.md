@@ -29,6 +29,15 @@ Point your browser to http://localhost:8081/
 
 Let us know if you have any feedback.
 
+
+
+
+Contacts
+=============
+
+[Ivano Malavolta][7]
+
+
 [1]: http://www.busonair.eu
 
 [2]: http://neo4j.org/download/
@@ -40,3 +49,5 @@ Let us know if you have any feedback.
 [5]: http://github.com/isaacs/npm 
 
 [6]: https://github.com/WhichWay/TransportDublin
+
+[7]: http://www.di.univaq.it/malavolta

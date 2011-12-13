@@ -28,6 +28,8 @@ Contacts
 
 [Michele Flammini][12]
 
+[Michele Rastelli][13]
+
 
 Getting Started
 =============
@@ -68,3 +70,5 @@ Let us know if you have any feedback.
 [11]: http://www.blaskino.net
 
 [12]: http://www.di.univaq.it/flammini/
+
+[13]: rashtao@gmail.com

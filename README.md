@@ -51,6 +51,6 @@ Let us know if you have any feedback.
 
 [7]: http://www.di.univaq.it/malavolta
 
-[8] http://www.ludovicoiovino.com
+[8]: http://www.ludovicoiovino.com
 
-[9] http://www.stefanopace.net
+[9]: http://www.stefanopace.net
